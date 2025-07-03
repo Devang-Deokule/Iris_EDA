@@ -31,13 +31,13 @@ The goal was to clean the data, visualize patterns, handle outliers, and scale t
 
 ## 📁 Project Structure
 
-Iris_EDA/
-├── source_code/
-│ ├── iris_eda_project.py
-│ └── screenshots/
-│ ├── pairplot.png
-│ └── heatmap.png
-├── report.pdf
+- **Iris_EDA/**
+  - **source_code/**
+    - `iris_eda_project.py`
+    - **screenshots/**
+      - `pairplot.png`
+      - `heatmap.png`
+  - `report.pdf`
 
 ---
 
