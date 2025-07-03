@@ -39,19 +39,17 @@ Iris_EDA/
 │ └── heatmap.png
 ├── report.pdf
 
-yaml
-Copy
-Edit
-
 ---
 
 ## 📊 Visuals
 
-**Pairplot**  
-<img src="source_code/screenshots/pairplot.png" width="500"/>
+**Pairplot** 
+![pairplot](https://github.com/user-attachments/assets/842b3e2d-4776-450e-83c5-5d41ea20cb16)
+
 
 **Correlation Heatmap**  
-<img src="source_code/screenshots/heatmap.png" width="500"/>
+![heatmap](https://github.com/user-attachments/assets/1fc77310-5e94-4d13-8efa-18a5d8936adb)
+
 
 ---
 
